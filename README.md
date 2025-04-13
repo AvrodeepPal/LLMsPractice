@@ -90,7 +90,7 @@ Welcome to my personal LLM practice repository, where I’m documenting my journ
 
 ## ✍️ Author
 
-**[Your Name or GitHub handle]**
+**[Avrodeep Pal]**
 
 - Machine Learning and NLP Enthusiast
 - Exploring end-to-end LLM development from scratch
@@ -101,8 +101,8 @@ Welcome to my personal LLM practice repository, where I’m documenting my journ
 ## ⭐️ Star the Repo if You're Also on a Custom LLM Journey!
 
 ```
-git clone https://github.com/your-username/tinyLLM-to-transformers.git
-cd tinyLLM-to-transformers
+git clone https://github.com/AvrodeepPal/LLMsPractice.git
+cd LLMsPractice
 ```
 
 Feel free to open issues or discussions if you're following a similar path — would love to exchange ideas or collaborate!
