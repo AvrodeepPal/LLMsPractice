@@ -38,9 +38,9 @@ Welcome to my personal LLM practice repository, where I’m documenting my journ
 |-------|------------|---------|-------------|
 | ✅ 1 | Token-level RNN | `TinyLLM` | Basic character prediction using a mini-RNN |
 | ✅ 2 | Word-level RNN | `SmaLLM` | Word prediction using word embeddings |
-| ✅ 3 | LSTM (Memory) | `MemoryLLM` | Stock prediction using LSTM with indicators |
-| ⏳ 4 | Transformer (Attention) | `CodeLLM` | Planned: Build Transformer-based models |
-| ⏳ 5 | Pretrained Models (LLMs) | `LLMind` | Planned: Explore fine-tuning FinGPT / BERT |
+| ✅ 3 | LSTM | `MemoryLLM` | Stock prediction using LSTM with indicators |
+| ⏳ 4 | Transformer | `AttentionLLM` | Planned: Build Transformer-based models |
+| ⏳ 5 | Pretrained Models | `LLMind` | Planned: Explore fine-tuning FinGPT / BERT |
 | ⏳ 6 | Hybrid + RL + Agentic | TBD | Planned: Agent-based LLMs & multi-modal inputs |
 
 ---
