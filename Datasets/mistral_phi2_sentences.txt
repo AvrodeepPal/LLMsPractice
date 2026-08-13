@@ -1,0 +1,175 @@
+Mistral & Phi-2 Model Comparison Results
+==================================================
+Generated with max_new_tokens=100, top_k=50, temperature=1.0
+Random seed: 42
+
+
+==== Mistral-7B ====
+
+--- Sentence 1 ---
+Starter: Every effort moves you
+Generated: closer to your goal – this is something that I often tell myself.
+
+I was in high school when a friend asked me if I had any plans for my future. My friends and I never really discussed life-planning or anything like that. In fact, the things we did have in common were almost always frivolous, so her question took me by surprise. Honestly, it was an inappropriate question, given where I was emotionally. And I told her as much.
+Full text: Every effort moves you closer to your goal – this is something that I often tell myself.
+
+I was in high school when a friend asked me if I had any plans for my future. My friends and I never really discussed life-planning or anything like that. In fact, the things we did have in common were almost always frivolous, so her question took me by surprise. Honestly, it was an inappropriate question, given where I was emotionally. And I told her as much.
+
+--- Sentence 2 ---
+Starter: Once upon a time
+Generated: , there were four little girls from Georgia… they dreamed dreams and schemed plots to take over the world. There were three who set their sights in the direction of academia and science with one aiming for the stars. This left one little girl without a path to follow where others had been trodden before her.
+That woman who was no longer a little girl became one who never did stop dreaming; creating a company by design and living proof that if you build it
+Full text: Once upon a time , there were four little girls from Georgia… they dreamed dreams and schemed plots to take over the world. There were three who set their sights in the direction of academia and science with one aiming for the stars. This left one little girl without a path to follow where others had been trodden before her.
+That woman who was no longer a little girl became one who never did stop dreaming; creating a company by design and living proof that if you build it
+
+--- Sentence 3 ---
+Starter: In a world full of LLMs
+Generated: , it can be tough to decide what is best.
+
+If you are searching for an essay builder that creates unique essays every time, then Grammarly is your go-to tool. If you want better grammar while looking for writing ideas and help, PaperRater will do the job. Lastly, Wordtune is perfect if you aim to change a sentence or phrase in a text while editing on the go!
+
+Read the full article below!
+
+## Overview
+Full text: In a world full of LLMs , it can be tough to decide what is best.
+
+If you are searching for an essay builder that creates unique essays every time, then Grammarly is your go-to tool. If you want better grammar while looking for writing ideas and help, PaperRater will do the job. Lastly, Wordtune is perfect if you aim to change a sentence or phrase in a text while editing on the go!
+
+Read the full article below!
+
+## Overview
+
+--- Sentence 4 ---
+Starter: The last thing I remember
+Generated: about yesterday was trying to decide whether to use the phone or the doorbell. If by any chance there was an intruder in the house, the doorbell would be the best option; the phone call might give an advance signal as he ran up the spiral stairs to my room.  I chose the phone, and dialled the number from memory. My heart wasn’t pounding as loudly – a sure sign that I had overcome this phobia for long intervals before.
+Full text: The last thing I remember about yesterday was trying to decide whether to use the phone or the doorbell. If by any chance there was an intruder in the house, the doorbell would be the best option; the phone call might give an advance signal as he ran up the spiral stairs to my room.  I chose the phone, and dialled the number from memory. My heart wasn’t pounding as loudly – a sure sign that I had overcome this phobia for long intervals before.
+
+--- Sentence 5 ---
+Starter: Under the neon bright city lights
+Generated: and beneath the soot infested smoke filled clouds that hang over our heads, a new kind of heroic presence has emerged. They dwell in the dark recesses of the night and roam all corners of this urban landscape seeking the one to fight and defeat them in an epic struggle only seen in comic books. No they’re not caped crusaders fighting to rid the world of criminals but they can sure enough take a beating, these are the street fighters.
+
+It
+Full text: Under the neon bright city lights and beneath the soot infested smoke filled clouds that hang over our heads, a new kind of heroic presence has emerged. They dwell in the dark recesses of the night and roam all corners of this urban landscape seeking the one to fight and defeat them in an epic struggle only seen in comic books. No they’re not caped crusaders fighting to rid the world of criminals but they can sure enough take a beating, these are the street fighters.
+
+It
+
+--- Sentence 6 ---
+Starter: When the stars began to
+Generated: fall,
+When they started crashing down,
+I would sit on a boulder and watch them,
+Looking as if it was my last time.
+When each morning the moon fell,
+And all the glorious night turned into daytime.
+It didn’t matter how much we cried with pain,
+For the world was made to change.
+
+There are many things I miss about the old days,
+The beauty of the Earth turning back its hours,
+Full text: When the stars began to fall,
+When they started crashing down,
+I would sit on a boulder and watch them,
+Looking as if it was my last time.
+When each morning the moon fell,
+And all the glorious night turned into daytime.
+It didn’t matter how much we cried with pain,
+For the world was made to change.
+
+There are many things I miss about the old days,
+The beauty of the Earth turning back its hours,
+
+--- Sentence 7 ---
+Starter: She whispered into the wind
+Generated: and she said “God, you’d better listen or I might scream. You’re trying to teach me something and I believe it can be learned by anyone who just listens for long enough.” So after a while, He came down on Earth…
+
+And He was born somewhere in South Sudan and they called him Peter Gabriel or Geddy Lee or Brian Molko or something like that. At this moment he can see how his story has only just begun – he’ll
+Full text: She whispered into the wind and she said “God, you’d better listen or I might scream. You’re trying to teach me something and I believe it can be learned by anyone who just listens for long enough.” So after a while, He came down on Earth…
+
+And He was born somewhere in South Sudan and they called him Peter Gabriel or Geddy Lee or Brian Molko or something like that. At this moment he can see how his story has only just begun – he’ll
+
+--- Sentence 8 ---
+Starter: Beyond the mountains
+Generated: and lush hills of Koh Samui, lies many of its secret, hidden beaches. From secluded to almost unvisited, there’s something for those looking for a moment alone or total isolation just to catch some serenity and beauty. The beaches may be remote, yet every single one offers something different you wouldn’t have seen before.
+
+During my stay in Koh Samui, I was privileged enough to visit several of these gems by
+Full text: Beyond the mountains and lush hills of Koh Samui, lies many of its secret, hidden beaches. From secluded to almost unvisited, there’s something for those looking for a moment alone or total isolation just to catch some serenity and beauty. The beaches may be remote, yet every single one offers something different you wouldn’t have seen before.
+
+During my stay in Koh Samui, I was privileged enough to visit several of these gems by
+
+--- Sentence 9 ---
+Starter: As the clock struck midnight
+Generated: on April 1, a wave of terror rolled through the University’s mainframe computer. Hackers took advantage of lax security measures to break into the system and cause malicious damage. When campus leaders woke up the next morning, hundreds of thousands of dollars worth of financial aid was missing, and the University had been set back technologically by almost a decade.
+
+Monday was April Fool’s Day, but it wasn’t exactly like usual around the Heights
+Full text: As the clock struck midnight on April 1, a wave of terror rolled through the University’s mainframe computer. Hackers took advantage of lax security measures to break into the system and cause malicious damage. When campus leaders woke up the next morning, hundreds of thousands of dollars worth of financial aid was missing, and the University had been set back technologically by almost a decade.
+
+Monday was April Fool’s Day, but it wasn’t exactly like usual around the Heights
+
+--- Sentence 10 ---
+Starter: I wish I was better, I want to, and I will
+Generated: . But now it feels impossible to get a grasp on where to go from here
+
+So, firstly – no more alcohol (not that this has been that challenging in the past couple of years)
+
+I eat really well. So now, I will make an effort to put myself first (even before others) every morning for just half an hour – meditation, mindfulness exercises, positive affirmations…
+
+Also, exercise! That’s definitely part of getting back on track
+Full text: I wish I was better, I want to, and I will . But now it feels impossible to get a grasp on where to go from here
+
+So, firstly – no more alcohol (not that this has been that challenging in the past couple of years)
+
+I eat really well. So now, I will make an effort to put myself first (even before others) every morning for just half an hour – meditation, mindfulness exercises, positive affirmations…
+
+Also, exercise! That’s definitely part of getting back on track
+
+==== Phi-2 ====
+
+--- Sentence 1 ---
+Starter: Every effort moves you
+Generated: [Model loading failed]
+Full text: Every effort moves you [Model loading failed]
+
+--- Sentence 2 ---
+Starter: Once upon a time
+Generated: [Model loading failed]
+Full text: Once upon a time [Model loading failed]
+
+--- Sentence 3 ---
+Starter: In a world full of LLMs
+Generated: [Model loading failed]
+Full text: In a world full of LLMs [Model loading failed]
+
+--- Sentence 4 ---
+Starter: The last thing I remember
+Generated: [Model loading failed]
+Full text: The last thing I remember [Model loading failed]
+
+--- Sentence 5 ---
+Starter: Under the neon bright city lights
+Generated: [Model loading failed]
+Full text: Under the neon bright city lights [Model loading failed]
+
+--- Sentence 6 ---
+Starter: When the stars began to
+Generated: [Model loading failed]
+Full text: When the stars began to [Model loading failed]
+
+--- Sentence 7 ---
+Starter: She whispered into the wind
+Generated: [Model loading failed]
+Full text: She whispered into the wind [Model loading failed]
+
+--- Sentence 8 ---
+Starter: Beyond the mountains
+Generated: [Model loading failed]
+Full text: Beyond the mountains [Model loading failed]
+
+--- Sentence 9 ---
+Starter: As the clock struck midnight
+Generated: [Model loading failed]
+Full text: As the clock struck midnight [Model loading failed]
+
+--- Sentence 10 ---
+Starter: I wish I was better, I want to, and I will
+Generated: [Model loading failed]
+Full text: I wish I was better, I want to, and I will [Model loading failed]

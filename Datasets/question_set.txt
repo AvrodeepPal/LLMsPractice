@@ -1,0 +1,20 @@
+Which programming language should I master first: C++, Java, or Python — especially for placements?
+Is learning C really necessary before starting with C++ or Python?
+How much DSA is enough for cracking product-based companies like Google or Amazon?
+What’s the best way to understand Computer Networks (CN) without getting bored?
+Is it important to study COA (Computer Organization & Architecture) deeply, or just focus on key topics?
+How should I balance my time between core subjects like CN, DBMS, OS, and DSA during semester and placement prep?
+How do I start learning web development from scratch — what’s the roadmap?
+Should I learn JavaScript deeply before starting React?
+What’s the difference between learning MERN stack and Spring Boot — which is better for job-ready projects?
+How do I connect a frontend (like React) to a backend API — and where should I host it?
+Is it necessary to learn Next.js if I already know React?
+How do I build a complete web app that can go on my resume — like a to-do app isn’t enough anymore, right?
+What’s the difference between AI, ML, and deep learning — and where should I start?
+Do I need to be good at math to understand machine learning?
+What are LLMs, and how can I build something cool with them as a student?
+How can I train a small ML model on my own laptop — any beginner-friendly dataset or project idea?
+Are tools like LangChain or HuggingFace too advanced for a beginner, or can I start exploring them now?
+How should I choose what projects to build — what makes a project impactful for my resume?
+When is the right time to start working on real-world projects — should I wait until I’ve mastered a tech?
+How can I turn my academic learning (like DSA or CN) into a practical, buildable project?

@@ -1,0 +1,439 @@
+GPT-2 Model Comparison Results
+==================================================
+Generated with max_new_tokens=100, top_k=50, temperature=1.0
+Random seed: 42
+
+
+==== GPT-2 SMALL ====
+
+--- Sentence 1 ---
+Starter: Every effort moves you forward
+Generated: but what you do in that short span allows you to make a difference in this space – that's what the real difference is for me: To try to make a difference.
+
+
+The thing I always look at when I first started to write the site is that you can spend as much money as you want on something as long as you don't spend too much money with your time and your money. It's a big deal. But the only time you spend more on something is the time you
+Full text: Every effort moves you forward but what you do in that short span allows you to make a difference in this space – that's what the real difference is for me: To try to make a difference.
+
+
+The thing I always look at when I first started to write the site is that you can spend as much money as you want on something as long as you don't spend too much money with your time and your money. It's a big deal. But the only time you spend more on something is the time you
+
+--- Sentence 2 ---
+Starter: Once upon a time there
+Generated: were hundreds of thousands in the streets of Budapest and the Hungarian capital. We still remember that day with the same bitterness that I remember at Dresden to this day.
+
+During the 20th century Budapest was one of the worst places to live. Every other day there were numerous murders of people who had left their homes. One Hungarian poet wrote:
+
+"[Bojó, the victim] had no place to live. When he did kill the police, who came all the way and threw him
+Full text: Once upon a time there were hundreds of thousands in the streets of Budapest and the Hungarian capital. We still remember that day with the same bitterness that I remember at Dresden to this day.
+
+During the 20th century Budapest was one of the worst places to live. Every other day there were numerous murders of people who had left their homes. One Hungarian poet wrote:
+
+"[Bojó, the victim] had no place to live. When he did kill the police, who came all the way and threw him
+
+--- Sentence 3 ---
+Starter: In a world full of
+Generated: huge online services in which they work for tens of millions of people, the decision to put them on a pedestal is a clear indication of their incompetence. This is why people who believe they are doing some sort of service know that they're not. Their failure to do so has put them at the center of a global class struggle.
+
+For those in the US who still believe that being a member of the ruling class is not the problem, then I don't believe any of this is a
+Full text: In a world full of huge online services in which they work for tens of millions of people, the decision to put them on a pedestal is a clear indication of their incompetence. This is why people who believe they are doing some sort of service know that they're not. Their failure to do so has put them at the center of a global class struggle.
+
+For those in the US who still believe that being a member of the ruling class is not the problem, then I don't believe any of this is a
+
+--- Sentence 4 ---
+Starter: The last thing I remember
+Generated: was just the silence and the feeling of knowing for the first time that every day I was going to feel like I was alive," said her mother of two.Her son sat down while looking at his father and smiled. He then sat down with her son but they both felt like they might not be able to live like this, just like their parents and their father.His father immediately told them he would leave immediately. He only watched as her son was born.The next day.At the hospital
+Full text: The last thing I remember was just the silence and the feeling of knowing for the first time that every day I was going to feel like I was alive," said her mother of two.Her son sat down while looking at his father and smiled. He then sat down with her son but they both felt like they might not be able to live like this, just like their parents and their father.His father immediately told them he would leave immediately. He only watched as her son was born.The next day.At the hospital
+
+--- Sentence 5 ---
+Starter: Under the bright city lights
+Generated: she would find a sign on the door saying, "Where are you from?" Then she would go to the kitchen where two people would be making small talk about where she would like to settle down. The lady who came from Germany would give them directions to one of the other men. The man who came from Morocco would take her along in his car and she would go to his house for dinner and supper. Once the couple left, the lady would take her husband out of Morocco, and the other
+Full text: Under the bright city lights she would find a sign on the door saying, "Where are you from?" Then she would go to the kitchen where two people would be making small talk about where she would like to settle down. The lady who came from Germany would give them directions to one of the other men. The man who came from Morocco would take her along in his car and she would go to his house for dinner and supper. Once the couple left, the lady would take her husband out of Morocco, and the other
+
+--- Sentence 6 ---
+Starter: When the stars began to
+Generated: align, as they sometimes do during star formation, you could see the star light, which looked like a black circle, go down and back up toward you, slowly fading out. And if the distance between you and the star rose by a few thousand miles, then that star light would have gone straight up. And so, for you, it was something like a shadow, or something like blue light. It just disappeared around you. And that was sort of the beginning of the star-phase,
+Full text: When the stars began to align, as they sometimes do during star formation, you could see the star light, which looked like a black circle, go down and back up toward you, slowly fading out. And if the distance between you and the star rose by a few thousand miles, then that star light would have gone straight up. And so, for you, it was something like a shadow, or something like blue light. It just disappeared around you. And that was sort of the beginning of the star-phase,
+
+--- Sentence 7 ---
+Starter: She whispered into the wind
+Generated: as she saw Lola's face. "What's so good about you?"
+
+She asked.
+
+"I love you. I've asked to be in your life for so long. I never gave up on them. I never gave up on someone in this life. I love you."
+
+She kissed him.
+
+"The best thing about you is how well you care for me. I love you and I love you as much as you loved me."
+
+L
+Full text: She whispered into the wind as she saw Lola's face. "What's so good about you?"
+
+She asked.
+
+"I love you. I've asked to be in your life for so long. I never gave up on them. I never gave up on someone in this life. I love you."
+
+She kissed him.
+
+"The best thing about you is how well you care for me. I love you and I love you as much as you loved me."
+
+L
+
+--- Sentence 8 ---
+Starter: Beyond the mountains lies a
+Generated: very interesting country in the middle of Central America where the river flow is very wide and is used mainly by the indigenous tribes. The people who are the focus of my films are all of Central America. In this case, they are the Algarve people, the indigenous people who live on land already used by the Algarve tribe who live around 2,000 years ago to build the city of the Uruka, a huge city complex, but also a UNESCO World Heritage Site which is used
+Full text: Beyond the mountains lies a very interesting country in the middle of Central America where the river flow is very wide and is used mainly by the indigenous tribes. The people who are the focus of my films are all of Central America. In this case, they are the Algarve people, the indigenous people who live on land already used by the Algarve tribe who live around 2,000 years ago to build the city of the Uruka, a huge city complex, but also a UNESCO World Heritage Site which is used
+
+--- Sentence 9 ---
+Starter: As the clock struck midnight
+Generated: Sunday, the first part of its tour led from California to New York for the final two days, including a round trip across the world to Europe and into the United States.
+
+This is the final week of the Tour as we focus on Mexico. We went on tour with the usual lineup of a dozen tour operators, including The Four Seasons, The Village, The Wild Bunch, Four Roses, The Roots and The Roots Trust, and we'd recently visited the San Fernando Valley. And last
+Full text: As the clock struck midnight Sunday, the first part of its tour led from California to New York for the final two days, including a round trip across the world to Europe and into the United States.
+
+This is the final week of the Tour as we focus on Mexico. We went on tour with the usual lineup of a dozen tour operators, including The Four Seasons, The Village, The Wild Bunch, Four Roses, The Roots and The Roots Trust, and we'd recently visited the San Fernando Valley. And last
+
+--- Sentence 10 ---
+Starter: They never expected what happened
+Generated: ," he said.
+
+"In all of our years of work with the NFL, we've never seen as many other athletes as they have here. We thought they were going to be here next season. We're very excited and humbled to bring them here."
+Full text: They never expected what happened ," he said.
+
+"In all of our years of work with the NFL, we've never seen as many other athletes as they have here. We thought they were going to be here next season. We're very excited and humbled to bring them here."
+
+==== GPT-2 MEDIUM ====
+
+--- Sentence 1 ---
+Starter: Every effort moves you forward
+Generated: : each time you make a decision it's like taking in fresh air, creating new possibilities and finding that new direction that'll change your perspective and be easier to overcome. The best way for you to make an impact and be accepted in the community is to take ownership of your time. When you spend so much time thinking about the future, it's easy to neglect to think about what you spend now. Even better is to spend your time thinking about the present and doing your part to create success for
+Full text: Every effort moves you forward : each time you make a decision it's like taking in fresh air, creating new possibilities and finding that new direction that'll change your perspective and be easier to overcome. The best way for you to make an impact and be accepted in the community is to take ownership of your time. When you spend so much time thinking about the future, it's easy to neglect to think about what you spend now. Even better is to spend your time thinking about the present and doing your part to create success for
+
+--- Sentence 2 ---
+Starter: Once upon a time there
+Generated: was a girl, who looked out of the window of a city hotel.
+
+She had black hair, and wore a dress on her feet.
+
+The other people there had heard about her. As they looked into her eyes, they could see that she had just a hint of white hair.
+
+The man in front of her saw that, the smile on his face turning from happy to frown, they stopped smiling.
+
+But in the next moment their eyes froze.
+Full text: Once upon a time there was a girl, who looked out of the window of a city hotel.
+
+She had black hair, and wore a dress on her feet.
+
+The other people there had heard about her. As they looked into her eyes, they could see that she had just a hint of white hair.
+
+The man in front of her saw that, the smile on his face turning from happy to frown, they stopped smiling.
+
+But in the next moment their eyes froze.
+
+--- Sentence 3 ---
+Starter: In a world full of
+Generated: fake news, fake tweets and fake Facebook likes, it's important we stay focused on what matters, but fake accounts in our feeds can be just as damaging," she wrote in a post. "When fake media and fake news collide, it leads to a dangerous environment for us as a nation and a world."
+
+Follow Daniel Nussbaum on Twitter: @dznussbaum
+Full text: In a world full of fake news, fake tweets and fake Facebook likes, it's important we stay focused on what matters, but fake accounts in our feeds can be just as damaging," she wrote in a post. "When fake media and fake news collide, it leads to a dangerous environment for us as a nation and a world."
+
+Follow Daniel Nussbaum on Twitter: @dznussbaum
+
+--- Sentence 4 ---
+Starter: The last thing I remember
+Generated: was walking away." One can imagine the devastation caused by the massive storm, her parents said.
+
+"We just didn't expect it to be this kind of disaster," the woman said, standing amid the flood waters in Southside.
+
+The Redflex truck was a one-ton, $250,000 vehicle.
+Full text: The last thing I remember was walking away." One can imagine the devastation caused by the massive storm, her parents said.
+
+"We just didn't expect it to be this kind of disaster," the woman said, standing amid the flood waters in Southside.
+
+The Redflex truck was a one-ton, $250,000 vehicle.
+
+--- Sentence 5 ---
+Starter: Under the bright city lights
+Generated: , the air was still moist with humidity that had yet to completely condense.
+
+As I entered the entrance of the dormitory, I asked for sleep. The white-haired girl seemed somewhat confused about my questions and seemed to ask if I needed another sleep. I looked around to find that one of the men was in the room as well. He sat on his chair and muttered words to himself while staring deep into the girl's eyes. He then said "You'll get used to it
+Full text: Under the bright city lights , the air was still moist with humidity that had yet to completely condense.
+
+As I entered the entrance of the dormitory, I asked for sleep. The white-haired girl seemed somewhat confused about my questions and seemed to ask if I needed another sleep. I looked around to find that one of the men was in the room as well. He sat on his chair and muttered words to himself while staring deep into the girl's eyes. He then said "You'll get used to it
+
+--- Sentence 6 ---
+Starter: When the stars began to
+Generated: align in 1990, I would start to hear what people had been calling the 'Coraline Effect' and it would seem to be happening even in my own backyard [San Francisco, California]. I would see these bright lights that were clearly marked 'cosmic rays." And while he admitted he hadn't discovered the phenomenon fully until 2000, he would go on to see evidence indicating the presence of the waves could be occurring all over the world.
+
+In an article written for the scientific journal Physical
+Full text: When the stars began to align in 1990, I would start to hear what people had been calling the 'Coraline Effect' and it would seem to be happening even in my own backyard [San Francisco, California]. I would see these bright lights that were clearly marked 'cosmic rays." And while he admitted he hadn't discovered the phenomenon fully until 2000, he would go on to see evidence indicating the presence of the waves could be occurring all over the world.
+
+In an article written for the scientific journal Physical
+
+--- Sentence 7 ---
+Starter: She whispered into the wind
+Generated: . It was the only sound she could make even though he had stopped his assault once they had begun their march. Her eyes fluttered slightly as she looked over at him. "Don't know what to do anymore." He smiled. "I'll handle it on my own." She frowned a little. "Well what if I can't, anyway? I might even end up being in the same situation again?" "I've already told you that." The boy nodded before walking away. "I
+Full text: She whispered into the wind . It was the only sound she could make even though he had stopped his assault once they had begun their march. Her eyes fluttered slightly as she looked over at him. "Don't know what to do anymore." He smiled. "I'll handle it on my own." She frowned a little. "Well what if I can't, anyway? I might even end up being in the same situation again?" "I've already told you that." The boy nodded before walking away. "I
+
+--- Sentence 8 ---
+Starter: Beyond the mountains lies a
+Generated: beautiful part of America, known for its great lakes, pristine shorelines, and wonderful forests. What if that was the end of it all?
+
+The new Disney Land in Orlando is going to be called Wilderness, and it will be home to a series of waterfalls, pools, and other magical experiences. Imagine a wild, magical land overflowing with wondrous beauty in every direction.
+
+One of the biggest draws of Wilderness is a beautiful waterfall that takes visitors up to a hundred feet above
+Full text: Beyond the mountains lies a beautiful part of America, known for its great lakes, pristine shorelines, and wonderful forests. What if that was the end of it all?
+
+The new Disney Land in Orlando is going to be called Wilderness, and it will be home to a series of waterfalls, pools, and other magical experiences. Imagine a wild, magical land overflowing with wondrous beauty in every direction.
+
+One of the biggest draws of Wilderness is a beautiful waterfall that takes visitors up to a hundred feet above
+
+--- Sentence 9 ---
+Starter: As the clock struck midnight
+Generated: on December 5, a wave of news and public interest around the topic overwhelmed the researchers.
+
+In an analysis on the journal Web of Science, Professor Eric L. Rosedale, Director of the Center for Computer Science and Technology Policy at Harvard, and his colleagues presented their findings from one of the largest surveys of online opinion in history: A survey of Twitter, Facebook and Tumblr users.
+
+"I had always expected our study to show that online people tended to be more politically active in
+Full text: As the clock struck midnight on December 5, a wave of news and public interest around the topic overwhelmed the researchers.
+
+In an analysis on the journal Web of Science, Professor Eric L. Rosedale, Director of the Center for Computer Science and Technology Policy at Harvard, and his colleagues presented their findings from one of the largest surveys of online opinion in history: A survey of Twitter, Facebook and Tumblr users.
+
+"I had always expected our study to show that online people tended to be more politically active in
+
+--- Sentence 10 ---
+Starter: They never expected what happened
+Generated: when the president began firing people of color, from police officers to members of his own party," said Alina Barrows, co-chair of Black Lives Matter Oakland.
+
+"And in retrospect, we might be very wise to be paying attention to how this went down."
+
+Gangster tactics
+
+The protests and unrest have also made national headlines, especially in Berkeley where a white policeman fired on an illegal rally by some Antifa radicals.
+
+It was billed as a peaceful
+Full text: They never expected what happened when the president began firing people of color, from police officers to members of his own party," said Alina Barrows, co-chair of Black Lives Matter Oakland.
+
+"And in retrospect, we might be very wise to be paying attention to how this went down."
+
+Gangster tactics
+
+The protests and unrest have also made national headlines, especially in Berkeley where a white policeman fired on an illegal rally by some Antifa radicals.
+
+It was billed as a peaceful
+
+==== GPT-2 LARGE ====
+
+--- Sentence 1 ---
+Starter: Every effort moves you forward
+Generated: . If you can say with a straight face that you are not part of the military, then you are a faker or liar. If you can say that you think your rights are less than others because of your nationality or where you were born, then you do not have the right to criticize the American war machine."
+
+The only issue he is not willing to concede is to defend against the charge of lying. "Yes, I think I have lied," he says. "I have lied
+Full text: Every effort moves you forward . If you can say with a straight face that you are not part of the military, then you are a faker or liar. If you can say that you think your rights are less than others because of your nationality or where you were born, then you do not have the right to criticize the American war machine."
+
+The only issue he is not willing to concede is to defend against the charge of lying. "Yes, I think I have lied," he says. "I have lied
+
+--- Sentence 2 ---
+Starter: Once upon a time there
+Generated: was a king who had become old and decrepit and had grown jealous of his throne and his subjects, but he thought that he might be rid of this problem by destroying himself in a duel. So he arranged for a quarrel to take place between himself and his father. The king's name was Reber, or Reber of Reberland, and at his side was the son of his nephew. They agreed to this that they might live long, so Reber took his weapon and began to
+Full text: Once upon a time there was a king who had become old and decrepit and had grown jealous of his throne and his subjects, but he thought that he might be rid of this problem by destroying himself in a duel. So he arranged for a quarrel to take place between himself and his father. The king's name was Reber, or Reber of Reberland, and at his side was the son of his nephew. They agreed to this that they might live long, so Reber took his weapon and began to
+
+--- Sentence 3 ---
+Starter: In a world full of
+Generated: technology, our phones make it easy to stay connected and connected to the community," said Chris Schaffer, SVP of marketing and communications at Samsung. "Our newest and updated Gear VR Innovator Edition allows anyone to take a virtual journey through iconic landmarks or to witness the world's most beautiful views in virtual reality.
+
+"Samsung pioneered the VR revolution and I'd be more than happy to take a day out of my day to have the chance to enjoy what I love with Samsung's Gear VR
+Full text: In a world full of technology, our phones make it easy to stay connected and connected to the community," said Chris Schaffer, SVP of marketing and communications at Samsung. "Our newest and updated Gear VR Innovator Edition allows anyone to take a virtual journey through iconic landmarks or to witness the world's most beautiful views in virtual reality.
+
+"Samsung pioneered the VR revolution and I'd be more than happy to take a day out of my day to have the chance to enjoy what I love with Samsung's Gear VR
+
+--- Sentence 4 ---
+Starter: The last thing I remember
+Generated: is that I was looking down, and all of a sudden, I get pulled into this tunnel. Then I realize this is all happening through the air. I've been in a tunnel for a while now. Then the tunnel just goes down the mountain, and there's a gate that goes from the top of the mountain and it's a gate for a mine that's in the middle of the area. So I'm thinking it's going to be the mine. I come out of the mine,
+Full text: The last thing I remember is that I was looking down, and all of a sudden, I get pulled into this tunnel. Then I realize this is all happening through the air. I've been in a tunnel for a while now. Then the tunnel just goes down the mountain, and there's a gate that goes from the top of the mountain and it's a gate for a mine that's in the middle of the area. So I'm thinking it's going to be the mine. I come out of the mine,
+
+--- Sentence 5 ---
+Starter: Under the bright city lights
+Generated: of his new home, he stared at each and every one of the people he knew, but he didn't feel threatened. A sense of ease and relief washed over him and he found there was no need to make a scene.
+
+"Hello," he said.
+
+A large man with dark hair came up to him and gave him a warm smile. "Nice to meet you, Mr Pervous Boy," he answered. "Now, you've gotten pretty tall, haven't you
+Full text: Under the bright city lights of his new home, he stared at each and every one of the people he knew, but he didn't feel threatened. A sense of ease and relief washed over him and he found there was no need to make a scene.
+
+"Hello," he said.
+
+A large man with dark hair came up to him and gave him a warm smile. "Nice to meet you, Mr Pervous Boy," he answered. "Now, you've gotten pretty tall, haven't you
+
+--- Sentence 6 ---
+Starter: When the stars began to
+Generated: align, I made a great deal of progress, and managed to take my children on a trip to the Middle East, to Israel and the West Bank. I brought them with me and helped take them on trips to Israel, and then back to the UK. My husband is very supportive," he added.
+
+The former head brewer said he was also delighted to see a film crew on hand for the tour.
+
+"We got into a small film crew at the end of June 2013 and
+Full text: When the stars began to align, I made a great deal of progress, and managed to take my children on a trip to the Middle East, to Israel and the West Bank. I brought them with me and helped take them on trips to Israel, and then back to the UK. My husband is very supportive," he added.
+
+The former head brewer said he was also delighted to see a film crew on hand for the tour.
+
+"We got into a small film crew at the end of June 2013 and
+
+--- Sentence 7 ---
+Starter: She whispered into the wind
+Generated: ."Hey! How's it going?"I laughed. "We're going to play a board game. It's gonna be funny. We really like it."I knew she wasn't serious. But I didn't want to risk losing. The game was the highlight of our weekend -- so I pretended I was, and she giggled and laughed with me.I asked. "Why did you say, 'why did we say,' when you just said, 'hey, you wanna play a board
+Full text: She whispered into the wind ."Hey! How's it going?"I laughed. "We're going to play a board game. It's gonna be funny. We really like it."I knew she wasn't serious. But I didn't want to risk losing. The game was the highlight of our weekend -- so I pretended I was, and she giggled and laughed with me.I asked. "Why did you say, 'why did we say,' when you just said, 'hey, you wanna play a board
+
+--- Sentence 8 ---
+Starter: Beyond the mountains lies a
+Generated: forest, stretching for a thousand miles. Here, in the forest, is a forest, and the forest is the land. In the realm of the forest, not even the smallest part of the land seems to be visible. Here the wood and the tree stand, but the trees are not alive. And in the forest, the tree sits, but it does not even move. The forest is only the shape of a tree. In the realm of the forest, one does not even perceive any smell
+Full text: Beyond the mountains lies a forest, stretching for a thousand miles. Here, in the forest, is a forest, and the forest is the land. In the realm of the forest, not even the smallest part of the land seems to be visible. Here the wood and the tree stand, but the trees are not alive. And in the forest, the tree sits, but it does not even move. The forest is only the shape of a tree. In the realm of the forest, one does not even perceive any smell
+
+--- Sentence 9 ---
+Starter: As the clock struck midnight
+Generated: , the men who had been driving were called over to help with the burning. They saw their men and horses burning, and the flames seemed to be getting farther and farther away. The engine- house and the barn were almost entirely destroyed. They saw three men working at the side of the fire, trying in vain, according to their accounts, to extinguish it. In most cases the fire was not extinguished from the inside at all. The two engines that had been hit at the end of the
+Full text: As the clock struck midnight , the men who had been driving were called over to help with the burning. They saw their men and horses burning, and the flames seemed to be getting farther and farther away. The engine- house and the barn were almost entirely destroyed. They saw three men working at the side of the fire, trying in vain, according to their accounts, to extinguish it. In most cases the fire was not extinguished from the inside at all. The two engines that had been hit at the end of the
+
+--- Sentence 10 ---
+Starter: They never expected what happened
+Generated: next.
+
+"We have to admit it. This is a real, personal matter for us. However, we fully support our player and do not want to interfere in this matter which is currently under investigation," the club said in a statement.
+
+The incident has caused both club and FIFA to investigate, with FIFA telling BBC Sport it was in the country's "interest" to look into all allegations relating to the England player.
+
+England manager Gareth Southgate, meanwhile, said:
+Full text: They never expected what happened next.
+
+"We have to admit it. This is a real, personal matter for us. However, we fully support our player and do not want to interfere in this matter which is currently under investigation," the club said in a statement.
+
+The incident has caused both club and FIFA to investigate, with FIFA telling BBC Sport it was in the country's "interest" to look into all allegations relating to the England player.
+
+England manager Gareth Southgate, meanwhile, said:
+
+==== GPT-2 XL ====
+
+--- Sentence 1 ---
+Starter: Every effort moves you forward
+Generated: ! Be the master of yourself and the master of your art.
+
+If you are not yet a student, please visit the
+
+The School:
+
+The Art of Self Defense for Men and Women.
+Full text: Every effort moves you forward ! Be the master of yourself and the master of your art.
+
+If you are not yet a student, please visit the
+
+The School:
+
+The Art of Self Defense for Men and Women.
+
+--- Sentence 2 ---
+Starter: Once upon a time there
+Generated: used to be a young boy from the suburbs in a little town named New Haven. But the boy's parents were living different lives, and from time to time the child left New Haven and went south for one holiday or another, and eventually settled in a part of Vermont called Hanover, Vermont. One afternoon, the boy returned to New Haven, and his family had long ago moved on. With his family gone, the boy got to work repairing his bicycle and got on his way to spend the
+Full text: Once upon a time there used to be a young boy from the suburbs in a little town named New Haven. But the boy's parents were living different lives, and from time to time the child left New Haven and went south for one holiday or another, and eventually settled in a part of Vermont called Hanover, Vermont. One afternoon, the boy returned to New Haven, and his family had long ago moved on. With his family gone, the boy got to work repairing his bicycle and got on his way to spend the
+
+--- Sentence 3 ---
+Starter: In a world full of
+Generated: technology, we need a device that's both quick to use and extremely intuitive. That's why, with the new OnePlus 5, OnePlus's new flagship phone, we've made the entire interface quick-to-access and incredibly easy without having to touch it. We've made it easy to start a phone call, and once the call has been initiated, the phone is instantly put into silent mode while you start to read a message on your device. We're not just making it easy now, we
+Full text: In a world full of technology, we need a device that's both quick to use and extremely intuitive. That's why, with the new OnePlus 5, OnePlus's new flagship phone, we've made the entire interface quick-to-access and incredibly easy without having to touch it. We've made it easy to start a phone call, and once the call has been initiated, the phone is instantly put into silent mode while you start to read a message on your device. We're not just making it easy now, we
+
+--- Sentence 4 ---
+Starter: The last thing I remember
+Generated: is having this really intense dream where I was in this room, and I was trying to sleep but I kept waking up, and I was in this room and I felt that I wasn't sleeping properly, and then I felt this force of light from the hallway outside and I went out into the hallway and I couldn't get through the locked door because I could feel the force that was blocking the door.
+
+I tried to knock but I just couldn't get in, and then I was back
+Full text: The last thing I remember is having this really intense dream where I was in this room, and I was trying to sleep but I kept waking up, and I was in this room and I felt that I wasn't sleeping properly, and then I felt this force of light from the hallway outside and I went out into the hallway and I couldn't get through the locked door because I could feel the force that was blocking the door.
+
+I tried to knock but I just couldn't get in, and then I was back
+
+--- Sentence 5 ---
+Starter: Under the bright city lights
+Generated: , the young couple could now see where she said they would find the other girls hiding out. They would find her in the corner of the room.
+
+Sighing, she grabbed her hair and tugged, causing it to fall back over her face. The hair fell into her eye, making it grow red-and that was the last time she ever looked at it.
+
+A/N: What do you think? I like them all the same, but I like the second
+Full text: Under the bright city lights , the young couple could now see where she said they would find the other girls hiding out. They would find her in the corner of the room.
+
+Sighing, she grabbed her hair and tugged, causing it to fall back over her face. The hair fell into her eye, making it grow red-and that was the last time she ever looked at it.
+
+A/N: What do you think? I like them all the same, but I like the second
+
+--- Sentence 6 ---
+Starter: When the stars began to
+Generated: align during the summer solstice, the comet was passing through a narrow opening of Earth's shadow just east of its orbital path. But the resulting dust cloud wasn't massive -- about the size of a golf ball -- and scientists didn't expect it to pose a problem.
+
+At the very least, they said, it would be hard for the dust to be an air drifter.
+
+After the sun's return in January, however, the comet may start to re-enter the sun
+Full text: When the stars began to align during the summer solstice, the comet was passing through a narrow opening of Earth's shadow just east of its orbital path. But the resulting dust cloud wasn't massive -- about the size of a golf ball -- and scientists didn't expect it to pose a problem.
+
+At the very least, they said, it would be hard for the dust to be an air drifter.
+
+After the sun's return in January, however, the comet may start to re-enter the sun
+
+--- Sentence 7 ---
+Starter: She whispered into the wind
+Generated: and the light of the moon, "Maybe just get the two of them closer."
+
+The man and the fairy continued to walk for another hour. Not to the city of the gods, it was now beyond the sun, or at least beyond the moon, but even the sun was nowhere to be seen.
+
+"I hate this place." The man muttered darkly, his hands laced behind his back.
+
+"You'll get stronger the harder you work." The fairy assured him
+Full text: She whispered into the wind and the light of the moon, "Maybe just get the two of them closer."
+
+The man and the fairy continued to walk for another hour. Not to the city of the gods, it was now beyond the sun, or at least beyond the moon, but even the sun was nowhere to be seen.
+
+"I hate this place." The man muttered darkly, his hands laced behind his back.
+
+"You'll get stronger the harder you work." The fairy assured him
+
+--- Sentence 8 ---
+Starter: Beyond the mountains lies a
+Generated: small town called Baku. The old wooden houses here are the ones still standing.
+
+On one of the upper floors there is a house with a window left open.
+
+This is the old door. One time, when I was a child, I used to sneak in here from the top floor. The window faced the mountains, so I could watch the birds and see the birdsong when I climbed the mountain's wall.
+
+I don't know how long this house is meant
+Full text: Beyond the mountains lies a small town called Baku. The old wooden houses here are the ones still standing.
+
+On one of the upper floors there is a house with a window left open.
+
+This is the old door. One time, when I was a child, I used to sneak in here from the top floor. The window faced the mountains, so I could watch the birds and see the birdsong when I climbed the mountain's wall.
+
+I don't know how long this house is meant
+
+--- Sentence 9 ---
+Starter: As the clock struck midnight
+Generated: for the third night in a row, thousands of men, women, boys and girls who had come alone.
+
+They had hoped for a place to sleep, but there was none. They had hoped to be helped by help from the Red Cross but the French authorities did not provide any.
+
+They had hoped to have water, food or help, but they were cut off from supplies the French say are necessary to alleviate the crisis.
+
+And they had hoped to be taken to the
+Full text: As the clock struck midnight for the third night in a row, thousands of men, women, boys and girls who had come alone.
+
+They had hoped for a place to sleep, but there was none. They had hoped to be helped by help from the Red Cross but the French authorities did not provide any.
+
+They had hoped to have water, food or help, but they were cut off from supplies the French say are necessary to alleviate the crisis.
+
+And they had hoped to be taken to the
+
+--- Sentence 10 ---
+Starter: They never expected what happened
+Generated: to them.
+
+It took days before they could be discharged. The nurse who helped them told me they "had it bad" and had to go through the "crazy carousel of the VA to get a bed."
+
+Not that this is a unique story. A recent Wall Street Journal investigation revealed that a lack of care led to an unexpected toll on veterans' health and cost the taxpayers billions of dollars. The report uncovered a "significant and growing shortfall" in health care for disabled veterans
+Full text: They never expected what happened to them.
+
+It took days before they could be discharged. The nurse who helped them told me they "had it bad" and had to go through the "crazy carousel of the VA to get a bed."
+
+Not that this is a unique story. A recent Wall Street Journal investigation revealed that a lack of care led to an unexpected toll on veterans' health and cost the taxpayers billions of dollars. The report uncovered a "significant and growing shortfall" in health care for disabled veterans
